@@ -1,0 +1,4 @@
+__pycache__
+bart/data*
+bart/uni*
+bart/out*
